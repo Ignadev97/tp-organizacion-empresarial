@@ -1,0 +1,7 @@
+RESUMEN DE VENTAS
+-------------------
+Total ventas: 1812114
+Promedio ventas: 4951.131147540984
+Venta maxima: 8960
+Venta minima: 1003
+Cantidad registros: 366
